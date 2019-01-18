@@ -1,2 +1,2 @@
 # wdi-fundamentals-memorygame
-A project for GA WDI course.
+A project for General Assembly's  Web Development Immersive course.
